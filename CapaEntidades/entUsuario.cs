@@ -8,7 +8,6 @@
         public required string nombrecompleto { get; set; }
         public required string correoelectronico { get; set; }
         public bool estado { get; set; }
-        public int MyProperty { get; set; }
 
     }
 }
