@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Boris\Desktop\Proyectobm\entUsuario.cs" Link="entUsuario.cs" />
+  </ItemGroup>
+
 </Project>
