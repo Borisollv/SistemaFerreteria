@@ -7,7 +7,7 @@
         public required string contraseña { get; set; }
         public required string nombrecompleto { get; set; }
         public required string correoelectronico { get; set; }
-        public bool estado { get; set; }
+        
 
     }
 }
